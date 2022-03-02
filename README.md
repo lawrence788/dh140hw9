@@ -4,4 +4,6 @@
 
 ### Larry Qu
 
+The Jupyter Notebook in this respository is an introductory exercise to plotting data with pandas.
+
 https://mybinder.org/v2/gh/lawrence788/dh140hw9/HEAD
